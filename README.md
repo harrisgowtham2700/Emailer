@@ -1,2 +1,0 @@
-# Emailer
-Blisscart (Dropshipping Emailer)
